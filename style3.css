@@ -1,0 +1,459 @@
+#navbar{
+    display: flex;
+    gap: 80px;
+    margin-left: 200px;
+}
+
+#nav-bar{
+    display: flex;
+    gap: 60px;
+    margin-top: 60px;
+
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+body{
+    font-size: larger;
+
+}
+
+#current-class{
+    margin-left: 650px;
+}
+
+p{
+    font-size: large;
+}
+
+#sign-up-action-bar{
+     font-size: large;
+     margin-top: 40px;
+     display: flex;
+     gap: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+}
+
+button{
+    background-color: rgb(154, 17, 167);
+    border-radius: 50px;
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+
+}
+
+b{
+    color: aliceblue;
+}
+
+#contents{
+    display: flex;
+    gap: 5px;
+}
+
+body{
+    background-color: wheat;
+   
+}
+
+#content{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-left: 200px;
+
+}
+
+#container{
+    background-color: rgb(228, 240, 240);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    border-radius: 50px;
+
+}
+
+span{
+    font-size: xx-large;
+    color: blueviolet;
+    margin-left: 200px;
+}
+
+@media screen and (min-width:250px) and (max-width:500px){
+    #navbar{
+        display: grid;
+        gap: 0px;
+        margin-left: 0px;
+    }
+    
+    #nav-bar{
+        display: grid;
+        gap: 50px;
+        margin-top: 0px;
+    
+    }
+    
+    .image{
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    
+    body{
+        font-size: small;
+    
+    }
+    
+    #current-class{
+        margin-left: 0px;
+    }
+    
+    p{
+        font-size: small;
+    }
+    
+    #sign-up-action-bar{
+         font-size: small;
+         margin-top: 0px;
+         display: flex;
+         gap: 10px;
+    }
+    a{
+        text-decoration: none;
+        font-size: small;
+    }
+    
+    button{
+        background-color: rgb(154, 17, 167);
+        border-radius: 50px;
+        width: 70px;
+        height: 35px;
+        margin-top: 0px;
+    
+    }
+    
+    b{
+        color: aliceblue;
+    }
+    
+    #contents{
+        display: flex;
+        gap: 5px;
+    }
+    
+    body{
+        background-color: wheat;
+       
+    }
+    
+    #content{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+    
+    }
+    
+    #container{
+        background-color: rgb(228, 240, 240);
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        border-radius: 0px;
+    
+    }
+    
+    span{
+        font-size: small;
+        color: blueviolet;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (min-width:501px) and (max-width:701px){
+    #navbar{
+        display: flex;
+        gap: 2px;
+        margin-left: 0px;
+    }
+    
+    #nav-bar{
+        display: flex;
+        gap: 10px;
+        margin-top: 0px;
+    
+    }
+    
+    .image{
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    
+    body{
+        font-size: small;
+    
+    }
+    
+    #current-class{
+        margin-left: 650px;
+    }
+    
+    p{
+        font-size: small;
+    }
+    
+    #sign-up-action-bar{
+         font-size: small;
+         margin-top: 0px;
+         display: flex;
+         gap: 10px;
+    }
+    a{
+        text-decoration: none;
+        font-size: small;
+    }
+    
+    button{
+        background-color: rgb(154, 17, 167);
+        border-radius: 50px;
+        width: 100px;
+        height: 35px;
+        margin-top: 0px;
+    
+    }
+    
+    b{
+        color: aliceblue;
+    }
+    
+    #contents{
+        display: flex;
+        gap: 5px;
+    }
+    
+    body{
+        background-color: wheat;
+       
+    }
+    
+    #content{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+    
+    }
+    
+    #container{
+        background-color: rgb(228, 240, 240);
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        border-radius: 0px;
+    
+    }
+    
+    span{
+        font-size: small;
+        color: blueviolet;
+        margin-left: 0px;
+    }
+
+}
+
+@media screen and (min-width:702px) and (max-width:952px){
+    #navbar{
+        display: flex;
+        gap: 100px;
+        margin-left: 0px;
+    }
+    
+    #nav-bar{
+        display: flex;
+        gap: 50px;
+        margin-top: 0px;
+    
+    }
+    
+    .image{
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    
+    body{
+        font-size: small;
+    
+    }
+    
+    #current-class{
+        margin-left: 0px;
+    }
+    
+    p{
+        font-size: small;
+    }
+    
+    #sign-up-action-bar{
+         font-size: small;
+         margin-top: 0px;
+         display: flex;
+         gap: 10px;
+    }
+    a{
+        text-decoration: none;
+        font-size: small;
+    }
+    
+    b{
+        color: aliceblue;
+    }
+    
+    #contents{
+        display: flex;
+        gap: 5px;
+    }
+    
+    body{
+        background-color: wheat;
+       
+    }
+    
+    #content{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+    
+    }
+    
+    #container{
+        background-color: rgb(228, 240, 240);
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        border-radius: 0px;
+    
+    }
+    
+    span{
+        font-size: small;
+        color: blueviolet;
+        margin-left: 0px;
+    }
+
+    button{
+        background-color: rgb(154, 17, 167);
+        border-radius: 50px;
+        width: 50px;
+        height: 35px;
+        margin-top: 0px;
+    
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1030px){
+    #navbar{
+        display: flex;
+        gap: 50px;
+        margin-left: 0px;
+    }
+    
+    #nav-bar{
+        display: flex;
+        gap: 50px;
+        margin-top: 0px;
+    
+    }
+
+    body{
+        font-size: small;
+    }
+    
+    .image{
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    
+    body{
+        font-size: small;
+    
+    }
+    
+    #current-class{
+        margin-left: 0px;
+    }
+    
+    p{
+        font-size: small;
+    }
+    
+    #sign-up-action-bar{
+         font-size: small;
+         margin-top: 0px;
+         display: flex;
+         gap: 10px;
+    }
+    a{
+        text-decoration: none;
+        font-size: small;
+    }
+    
+    button{
+        background-color: rgb(154, 17, 167);
+        border-radius: 50px;
+        width: 100px;
+        height: 35px;
+        margin-top: 0px;
+    
+    }
+    
+    b{
+        color: aliceblue;
+    }
+    
+    #contents{
+        display: flex;
+        gap: 5px;
+    }
+    
+    body{
+        background-color: wheat;
+       
+    }
+    
+    #content{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+    
+    }
+    
+    #container{
+        background-color: rgb(228, 240, 240);
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        border-radius: 0px;
+    
+    }
+    
+    span{
+        font-size: small;
+        color: blueviolet;
+        margin-left: 0px;
+    }
+
+}
+    

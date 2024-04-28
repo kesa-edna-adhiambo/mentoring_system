@@ -1,0 +1,256 @@
+button{
+    background-color: rgb(154, 17, 167);
+    margin-left: 230px;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+
+}
+
+.icons{
+    margin-left: 100px;
+    width: 40px;
+    height: 60px;
+    display: flex;
+    gap: 10px;
+}
+
+ body{
+    font-size:large;
+    background-color: wheat;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.input{
+    width: 200px;
+    height: 20px;
+}
+
+#form{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#container{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 50px;
+    background-color: rgb(228, 240, 240);
+    border-radius: 50px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+   
+}
+
+@media screen and (min-width:250px) and (max-width:500px){
+    button{
+        background-color: rgb(154, 17, 167);
+        margin-left: 120px;
+        width: 100px;
+        height: 30px;
+        border-radius: 100px;
+    
+    }
+    
+    .icons{
+        margin-left: 50px;
+        width: 40px;
+        height: 60px;
+        display: flex;
+        gap: 10px;
+    }
+    
+     body{
+        font-size:x-small;
+        background-color: wheat;
+    }
+    
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    
+    .input{
+        width: 200px;
+        height: 20px;
+    }
+    
+    #form{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    #container{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        background-color: rgb(228, 240, 240);
+        border-radius: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+       
+    }
+}
+
+@media screen and (min-width:501px) and (max-width:751px) {
+
+    button{
+        background-color: rgb(154, 17, 167);
+        margin-left: 160px;
+        width: 100px;
+        height: 30px;
+        border-radius: 100px;
+    
+    }
+    
+    .icons{
+        margin-left: 70px;
+        width: 40px;
+        height: 60px;
+        display: flex;
+        gap: 10px;
+    }
+    
+     body{
+        font-size:smaller;
+        background-color: wheat;
+    }
+    
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    
+    .input{
+        width: 200px;
+        height: 20px;
+    }
+    
+    #form{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    #container{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        background-color: rgb(228, 240, 240);
+        border-radius: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+       
+    }
+    
+}
+
+@media screen and (min-width:752px) and (max-width:1000px){
+    button{
+        background-color: rgb(154, 17, 167);
+        margin-left: 230px;
+        width: 100px;
+        height: 30px;
+        border-radius: 100px;
+    
+    }
+    
+    .icons{
+        margin-left: 100px;
+        width: 40px;
+        height: 60px;
+        display: flex;
+        gap: 10px;
+    }
+    
+     body{
+        font-size:large;
+        background-color: wheat;
+    }
+    
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    
+    .input{
+        width: 200px;
+        height: 20px;
+    }
+    
+    #form{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    #container{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        background-color: rgb(228, 240, 240);
+        border-radius: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+       
+    }
+}
+/* 
+@media screen and (min-width:1001px) and (min-width:1300px){
+    button{
+    background-color: rgb(154, 17, 167);
+    margin-left: 0px;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+
+}
+
+.icons{
+    margin-left: 100px;
+    width: 40px;
+    height: 60px;
+    display: flex;
+    gap: 10px;
+}
+
+ body{
+    font-size:small;
+    background-color: wheat;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.input{
+    width: 200px;
+    height: 20px;
+}
+
+#form{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#container{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    background-color: rgb(228, 240, 240);
+    border-radius: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+}
+} */
+
+
