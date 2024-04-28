@@ -87,9 +87,11 @@ button{
     padding:16px 50px;
     background-color: rgb(154, 17, 167);
     color:#fbf8f8;
-    font-size: 16px;
+    font-size: 10px;
     border-radius: 40px;
     cursor: pointer;
+    width: 20px;
+    height: 35px;
 }
 ul li{
     list-style: none;
@@ -219,9 +221,11 @@ ul li span{
         padding:16px 50px;
         background-color: rgb(154, 17, 167);
         color:#fbf8f8;
-        font-size: 16px;
+        font-size: 10px;
         border-radius: 40px;
         cursor: pointer;
+        width: 20px;
+        height: 35px; 
         
     }
     ul li{
@@ -353,9 +357,11 @@ ul li span{
         padding:16px 50px;
         background-color: rgb(154, 17, 167);
         color:#fbf8f8;
-        font-size: 16px;
+        font-size: 10px;
         border-radius: 40px;
         cursor: pointer;
+        width: 20px;
+        height: 35px;
         
     }
     ul li{
@@ -487,9 +493,11 @@ ul li span{
         padding:16px 50px;
         background-color: rgb(154, 17, 167);
         color:#fbf8f8;
-        font-size: 16px;
+        font-size: 10px;
         border-radius: 40px;
         cursor: pointer;
+        width: 20px;
+        height: 35px;
         
     }
     ul li{
