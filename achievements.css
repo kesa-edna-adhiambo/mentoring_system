@@ -6,23 +6,25 @@
 
 body{
     font-size: x-large;
-    background-color: white;
+    background-color: wheat;
+    margin-top: 40px;
 }
 
 #navbar{
     display: flex;
     gap: 100px;
-    margin-left: 130px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    margin-left: 330px;
+    padding-bottom: 0px;
+    padding-top: 40px;
+
 }
 
-#container{
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 600px;
-  
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
 }
+
 #h2{
   margin-left: 200px;
 
@@ -30,7 +32,7 @@ body{
 
 a{
     text-decoration: none;
-    color: #e7f0f1;
+    color: rgb(154, 17, 167);
 }
 *{
     margin: 0;
@@ -51,8 +53,8 @@ a{
     height:400px;
     background: rgb(228, 240, 240);
     border-radius: 10px;
-    margin-left: 100px;
-    margin-top: 150px;
+    margin-left: 300px;
+    margin-top: 50px;
 }
 
 .add_achievement h2{
@@ -167,7 +169,7 @@ ul li span{
     
     a{
         text-decoration: none;
-        color: #e7f0f1;
+        color: rgb(154, 17, 167);
     }
     *{
         margin: 0;
@@ -288,7 +290,7 @@ ul li span{
     
     #navbar{
         display: flex;
-        gap: 10px;
+        gap: 50px;
         margin-left: 0px;
         padding-top: 0px;
         padding-bottom: 0px;
@@ -308,7 +310,7 @@ ul li span{
     
     a{
         text-decoration: none;
-        color: #e7f0f1;
+        color: rgb(154, 17, 167);
     }
     *{
         margin: 0;
@@ -430,7 +432,7 @@ ul li span{
     
     #navbar{
         display: flex;
-        gap: 10px;
+        gap: 40px;
         margin-left: 0px;
         padding-top: 0px;
         padding-bottom: 0px;
@@ -450,7 +452,7 @@ ul li span{
     
     a{
         text-decoration: none;
-        color: #e7f0f1;
+        color: rgb(154, 17, 167);
     }
     *{
         margin: 0;

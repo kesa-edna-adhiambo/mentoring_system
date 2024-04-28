@@ -4,6 +4,7 @@
     margin-bottom: 100px;
     margin-left: 100px;
     margin-right: 50px;
+    display: flex;
 
 }
 
@@ -66,7 +67,7 @@ h1{
     }
     
     #nav-bar{
-        display: flex;
+        display: table-column;
         gap: 20px;
         text-decoration: none;
         margin-left: 0px;
@@ -79,6 +80,7 @@ h1{
         margin-left: 0px;
     }
 }
+
 
 @media screen and (min-width:501px) and (max-width:725px){
     #container{

@@ -85,7 +85,7 @@ a{
     
     a{
         text-decoration: none;
-        color: white;
+        color:  wheat;
     }
     
     #form{
@@ -146,7 +146,7 @@ a{
     
     a{
         text-decoration: none;
-        color: white;
+        color:  wheat;
     }
     
     #form{
@@ -261,7 +261,6 @@ a{
     a{
         text-decoration: none;
         color: white;
-    }
     
     #form{
         padding-top: 0px;
@@ -342,5 +341,6 @@ a{
     }
     
 
+}
 }
 
