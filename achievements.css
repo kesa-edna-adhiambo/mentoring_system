@@ -12,8 +12,8 @@ body{
 
 #navbar{
     display: flex;
-    gap: 100px;
-    margin-left: 330px;
+    gap: 50px;
+    margin-left: 280px;
     padding-bottom: 0px;
     padding-top: 40px;
 
